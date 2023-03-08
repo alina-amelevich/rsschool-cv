@@ -40,3 +40,8 @@ function descendingOrder(num) {
   **"Minsk State Machine-Building College"**\
   *Marketing*\
   2012-2015
+## Languages
+* Russian
+* Belarusian
+* English (A2-B1)
+* Polish (learning)
